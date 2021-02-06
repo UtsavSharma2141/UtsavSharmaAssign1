@@ -1,5 +1,15 @@
 <!-- Utsav Sharma n01392141 section C-->
 <resources>
-    <string name="app_name">UtsavLab1</string>
-    <string name="text_label">Bienvenue sur mon appli</string>
+    <string name="app_name">Utsav Sharma n01392141</string>
+    <string name="text_label">Bienvenue Utsav Sharma n01392141</string>
+    <string name="text_labe2">mon deuxième écran Utsav Sharma n01392141</string>
+    <string name="submit1">Bouton 1</string>
+    <string name="submit2">Bouton 1</string>
+    <string name="title">Utiliser les intentions</string>
+    <string name="toast1_label">Utsav Sharma.Site Web officiel du Humber College.</string>
+    <string name="snackbar1">Utsav Sharma</string>
+    <string name="value">Valeur</string>
+    <string name="value22">Valeur</string>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightyellow">#FFFCBB</color>
 </resources>
